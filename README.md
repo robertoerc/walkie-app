@@ -8,14 +8,14 @@ reads instead of a stack of screenshots.
 
 - **Any window on your Mac**: the iOS Simulator, native apps, Electron apps, Figma, the browser.
 - **Your voice and your pointer decide what the agent looks at.**
-- **About 3,500 tokens for a typical review** (measured). One 1080p screenshot is 2,691 tokens on Claude 4.7 and later.
+- **About 3,500 tokens for a typical review** (measured). One 1080p screenshot is 2,691 tokens on Claude 4.7 and later (cap 4,784 per image).
 - **Runs on your Mac.** No uploads. Your recordings stay on your Mac until you send them.
 - **$39 once.** Free to try: 7 screen recordings + 10 screenshots, no account, no card.
 
 ## Download
 
-**[Download the latest Walkie for Mac (Apple silicon)](https://usewalkie.com/download/mac)** · or grab the `.dmg` from
-[Releases](https://github.com/robertoerc/walkie-app/releases). Signed and notarized by Apple.
+**[Download the latest Walkie for Mac (Apple silicon, macOS 26 or later)](https://usewalkie.com/download/mac)** · or grab the `.dmg` from
+[Releases](https://github.com/robertoerc/walkie-app/releases). Signed with a Developer ID and notarized by Apple.
 
 Setup guide: https://usewalkie.com/docs/
 
